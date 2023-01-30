@@ -3,7 +3,7 @@
 <h3 align="center">I' m a Fullstack web developer. I love combining the worlds of logic and creative design to make eye-catching, acessible, and user-friendly websites and applications. I design and code beautifully simple things, and I love what I do.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76110e661bcad9ff4b87e42c186c12c09d308905308c&rid=giphy.gif&ct=g" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUHAIL-K&label=Profile%20views&color=0e75b6&style=flat" alt="SUHAIL-K" /> </p>
+
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Full Stack Web Development**
@@ -20,12 +20,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=SUHAIL-K&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 # 💻 My Stats:
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHAIL-K)](https://github.com/SUHAIL-K/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHAIL-K&show_icons=true&theme=dracula)](https://github.com/SUHAIL-K/github-readme-stats)
  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUHAIL-K&" alt="SUHAIL-K" /></p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SUHAIL-K&label=Profile%20views&color=0e75b6&style=flat" alt="SUHAIL-K" /> </p>
 <!--
 **SUHAIL-K/SUHAIL-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
