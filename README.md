@@ -20,11 +20,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=SUHAIL-K&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 # 💻 My Stats:
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHAIL-FGFG)](https://github.com/SUHAIL-K/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SUHAIL-K)](https://github.com/SUHAIL-K/github-readme-stats)
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathmeshvk&show_icons=true&locale=en" alt="prathmeshvk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathmeshvk&" alt="prathmeshvk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SUHAIL-K&" alt="SUHAIL-K" /></p>
 
 
 <!--
